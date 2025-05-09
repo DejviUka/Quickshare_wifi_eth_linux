@@ -1,0 +1,5 @@
+wifi: XX-XX-XX-XX-XX-XX
+wifi: YY-YY-YY-YY-YY-YY
+
+ethernet: ZZ-ZZ-ZZ-ZZ-ZZ-ZZ
+ethernet: FF-FF-FF-FF-FF-FF
