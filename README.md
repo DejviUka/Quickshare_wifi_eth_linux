@@ -1,4 +1,4 @@
- README: Linux Wi-Fi Sharing Toggle Script
+Linux Wi-Fi Sharing Toggle Script
 
  SYNOPSIS:
    Toggle Linux IP forwarding and NAT between a prioritized Wi-Fi interface
@@ -53,7 +53,4 @@
    - Adjust firewall rules as necessary for your distribution.
    - You can edit mac.txt manually or via menu options.
 
- LICENSE:
-   MIT License (or your preferred license).
 
- END OF README
