@@ -19,9 +19,9 @@
    Accepts '-' or ':' separators, case-insensitive.
 
    Example:
-     wifi:    3C-55-76-48-60-31
+     wifi:    XX:XX:XX:XX:XX:XX
      wifi:    A1:B2:C3:D4:E5:F6
-     ethernet:5C-60-BA-77-0E-D1
+     ethernet:XX:XX:XX:XX:XX:XX
      ethernet:02-AB-CD-EF-12-34
 
  USAGE:
